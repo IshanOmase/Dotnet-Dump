@@ -1,0 +1,18 @@
+@using BOL;
+
+<h1>Products List</h1>
+<hr>
+
+@{
+    List<Product> products = (List<Product>)TempData["allProducts"];
+        
+        foreach(var p in products){
+            <p>
+                @p |
+                <a href="/products/details/@p.Pid">Details</a> |
+                <a href="/products/edit/@p.Pid">Edit</a> |
+                <a href="/products/delete/@p.Pid">Delete</a>
+            </p>
+        }
+        <a href="/products/add">Add new Products</a>
+}

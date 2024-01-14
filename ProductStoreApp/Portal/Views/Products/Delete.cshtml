@@ -1,0 +1,14 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Edit Page";
+}
+
+<h1>Confirm product to be deleted</h1>
+
+ <form method="post" asp-controller="Products" asp-action="Delete">
+    <label>Id:</label>
+    <input type="number" name="id" value="@Model.Pqty" />
+    <br />
+    <button type="submit">Update</button>
+</form>

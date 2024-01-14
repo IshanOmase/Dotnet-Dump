@@ -1,0 +1,15 @@
+@{
+    var imagePath ="/images/"+ @Model.Pname + ".jpg";
+    
+}
+
+
+<div class="card" style="width: 18rem;">
+  <img src="@imagePath" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">@Model.Pname</h5>
+    <p class="card-text">@Model.Pdesc</p>
+    <p class="card-text">Rs. @Model.Pprice/-</p>
+    
+  </div>
+</div>

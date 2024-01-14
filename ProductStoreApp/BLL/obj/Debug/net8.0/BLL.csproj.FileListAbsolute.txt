@@ -1,0 +1,17 @@
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\bin\Debug\net8.0\BLL.dll
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\bin\Debug\net8.0\BLL.pdb
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\obj\Debug\net8.0\BLL.dll
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\obj\Debug\net8.0\BLL.pdb
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\bin\Debug\net8.0\BOL.dll
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\bin\Debug\net8.0\DAL.dll
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\bin\Debug\net8.0\BOL.pdb
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\bin\Debug\net8.0\DAL.pdb
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete

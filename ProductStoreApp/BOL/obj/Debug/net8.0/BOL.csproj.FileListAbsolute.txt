@@ -1,0 +1,11 @@
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\bin\Debug\net8.0\BOL.deps.json
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\bin\Debug\net8.0\BOL.dll
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\bin\Debug\net8.0\BOL.pdb
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\obj\Debug\net8.0\BOL.dll
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\obj\Debug\net8.0\refint\BOL.dll
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\obj\Debug\net8.0\BOL.pdb
+D:\1_cdac\.NET module\Lab\Day12\ProductStoreApp\BOL\obj\Debug\net8.0\ref\BOL.dll
