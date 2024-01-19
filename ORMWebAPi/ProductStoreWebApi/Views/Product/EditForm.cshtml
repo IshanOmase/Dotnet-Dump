@@ -1,0 +1,77 @@
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        @* display: flex; *@
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+         background-image: url('/images/1.jpg');
+        background-size: cover; /* Adjust as needed */
+        background-position: center; /* Adjust as needed */
+        background-repeat: no-repeat;
+    }
+
+    form {
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 300px;
+        text-align: center;
+        margin-left: 40%;
+        margin-top: 10%;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 8px;
+        color: #333;
+    }
+
+    input {
+        width: calc(100% - 20px);
+        padding: 10px;
+        margin-bottom: 16px;
+        box-sizing: border-box;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    button {
+        background-color: #04AA6D;
+        color: white;
+        padding: 12px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        width: 100%;
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    button:hover {
+        opacity: 0.8;
+    }
+</style>
+
+<body>
+    <form action="/Product/Update" method="post">
+        <label for="id">Id</label>
+        <input type="text" name="pid" value="@Model.PId" readonly required>
+
+        <label for="name">Name</label>
+        <input type="text" name="name" value="@Model.Name" required>
+
+        <label for="price">Price</label>
+        <input type="text" name="price" value="@Model.Price" required>
+
+        <label for="brand">Brand</label>
+        <input type="text" name="brand" value="@Model.Brand" required>
+
+        <label for="type">Type</label>
+        <input type="text" name="type" value="@Model.Type" required>
+
+        <button type="submit">Update</button>
+    </form>
+</body>
